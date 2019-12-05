@@ -17,7 +17,7 @@ namespace DungeonsDatabase
     class Program
     {
         /// <summary>
-        /// main method, program starts here
+        /// main method, program starts here 
         /// </summary>
         static void Main(string[] args)
         {
