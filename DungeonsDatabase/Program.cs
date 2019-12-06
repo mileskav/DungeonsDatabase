@@ -11,7 +11,7 @@ namespace DungeonsDatabase
     // Description: A Dungeons & Dragons character profile program
     // Author: Kavanagh, Miles
     // Dated Created: 11/20/2019
-    // Last Modified: 12/01/2019
+    // Last Modified: 12/04/2019
     //
     // ************************************************** 
     class Program
